@@ -9,8 +9,8 @@
     <IncludeSymbols>true</IncludeSymbols>
     <SymbolPackageFormat>snupkg</SymbolPackageFormat>
     <PackageTags>hangfire;entity-framework-core</PackageTags>
-    <PackageProjectUrl>https://github.com/sergezhigunov/Hangfire.EntityFrameworkCore</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/sergezhigunov/Hangfire.EntityFrameworkCore.git</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/softek/Hangfire.EntityFrameworkCore</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/softek/Hangfire.EntityFrameworkCore.git</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
     <PackageReadmeFile>README.md</PackageReadmeFile>
